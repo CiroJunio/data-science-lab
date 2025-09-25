@@ -1,0 +1,9 @@
+id_cliente,nome,email,cidade,data_cadastro
+101,Ana Silva,ana.silva@email.com,São Paulo,2025-08-15
+102,Bruno Costa,bruno.c@email.com,Rio de Janeiro,2025-08-16
+103,Carla Dias,carla.dias@email.com,Belo Horizonte,2025-08-17
+104,Daniel Alves,dani.alves@email.com,São Paulo,2025-08-18
+105,Eduarda Lima,edu.lima@email.com,Salvador,2025-08-19
+106,Fábio Melo,fabio.melo@email.com,São Paulo,2025-08-20
+107,Gisele Faria,gisele@email.com,Curitiba,2025-08-21
+108,Heitor Barros,h.barros@email.com,Rio de Janeiro,2025-08-22
