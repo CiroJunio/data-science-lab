@@ -1,13 +1,12 @@
 # Configuração do Dashboard de Engajamento
-version: 1.1 # Versão atualizada
+version: 1.0
 owner: lead_analyst
 
 metrics:
   - open_rate
   - click_through_rate
   - conversion_rate
-  - unsubscribe_rate # Nova métrica adicionada
 
 filters:
-  - time_range: 'last_90_days'
-    - campaign_type: 'onboarding' # ERRO DE INDENTAÇÃO INTRODUZIDO AQUI
+  - time_range: 'last_30_days'
+  - campaign_type: 'onboarding'
